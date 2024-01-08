@@ -1,2 +1,2 @@
 # SimpleCalculator
-build calculator using html, css, javascript
+Build calculator using html, css, javascript
